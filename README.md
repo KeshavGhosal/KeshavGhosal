@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavghosal&label=Profile%20views&color=0e75b6&style=flat" alt="keshavghosal" /> </p>
 
-- 🔭 I’m currently working on **A Full-Stack Campus Marketplace/Management system using Node.js and SQL to solve real-world student workflow problems.**
+- 🔭 I’m currently working on **A Full-Stack Campus Management system using Node.js and SQL to solve real-world student problems.**
 
-- 🌱 I’m currently learning **Mastering cloud deployment (AWS/Azure) and scaling databases for high-traffic applications.**
+- 🌱 I’m currently learning **Mastering cloud deployment (AWS/Azure),scaling databases for high-traffic applications,Android Application and cloud-based database management.**
 
 - 👯 I’m looking to collaborate on **Advanced System Design and integrating Machine Learning models into web applications (AI-driven development).**
 
-- 🤝 I’m looking for help with **Open-source Open Source projects involving React, Node.js, or performance optimization in Java/C++.**
+- 🤝 I’m looking for help with **Open-source projects involving React, Node.js, or performance optimization in Java/C++ or API integration with real-based projects.**
 
-- 💬 Ask me about **Data Structures & Algorithms, Backend logic in Node.js, and why I prefer C++ for competitive programming.**
+- 💬 Ask me about **Data Structures & Algorithms, Backend logic in Node.js, Frontend Development,about API integration and how to create Ai driven projects.**
 
 - 📫 How to reach me **keshavghosal890@gmail.com**
 
